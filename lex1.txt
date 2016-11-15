@@ -1,0 +1,7 @@
+Program PROG;
+LABEL 22, 31239;
+BEGIN END.
+
+
+
+
